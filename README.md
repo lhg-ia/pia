@@ -20,3 +20,5 @@ Para ejecutar el programa `hola_mundo.py`, sigue los siguientes pasos:
 1. Abre una terminal o consola.
 2. Navega hasta la carpeta donde se encuentra el archivo.
 3. Ejecuta el siguiente comando:
+```bash
+python hola_mundo.py
